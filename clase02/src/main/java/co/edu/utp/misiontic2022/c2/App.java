@@ -6,7 +6,7 @@ package co.edu.utp.misiontic2022.c2;
  */
 public class App 
 {
-    public static void main( String[] args )
+    public static void second( String[] args )
     {
         System.out.println( "Hello World!" );
     }
